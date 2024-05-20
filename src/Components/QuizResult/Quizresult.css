@@ -1,0 +1,26 @@
+.show-score {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    border: 1px solid white;
+    outline: 2px solid rgb(236, 58, 4);
+    width: 40vw;
+    height: 40vh;
+    background-color: rgb(208, 171, 241);
+    color: rgb(161, 6, 6);
+    font-weight: 700;
+    font-size: 1.5rem;
+
+}
+
+.next {
+    margin-top: 1rem;
+    padding: 15px 50px;
+    border-radius: 10px;
+    background-color: red;
+    color: white;
+    font-weight: 700;
+    font-size: 1.2rem;
+    border: none;
+}
